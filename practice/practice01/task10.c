@@ -8,4 +8,5 @@ int main(){
     printf("%d\n", a | 1);
     printf("%d\n", a ^ 1);
     printf("%d", ~a);
-}
+    return 0;
+}               

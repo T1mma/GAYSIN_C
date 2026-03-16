@@ -5,4 +5,5 @@ int main() {
     
     printf("x: %d\n", x);
     printf("x: %p\n", x);
+    return 0;
 }

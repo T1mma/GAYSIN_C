@@ -17,4 +17,5 @@ int main(){
     {
         printf("%d", x * -1);
     }
+    return 0;
 }

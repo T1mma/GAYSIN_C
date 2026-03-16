@@ -15,4 +15,5 @@ int main(){
     else{
         printf("%c - другой символ", a);
     }
+    return 0;
 }

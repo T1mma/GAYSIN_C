@@ -10,4 +10,5 @@ int main(){
     else if(b>a){
         printf("%.1f", (float)b/(float)a);
     }
+    return 0;
 }

@@ -10,4 +10,5 @@ int main(){
     else{
         printf("Not equal");
     }
+    return 0;
 }

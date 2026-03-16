@@ -9,4 +9,5 @@ int main() {
     printf("Разность: %d\n", a - b);
     printf("Произведение: %d\n", a * b);
     printf("Целочисленное деление: %d\n", a / b);
+    return 0;
 }

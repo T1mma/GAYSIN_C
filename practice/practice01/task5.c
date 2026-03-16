@@ -5,4 +5,5 @@ int main() {
     
     printf("%d\n", num);
     printf("%.15f\n", num);
+    return 0;
 }

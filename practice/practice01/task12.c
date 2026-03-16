@@ -16,4 +16,5 @@ int main(){
     {
         printf("C(%d) - max", c);
     }
+    return 0;
 }

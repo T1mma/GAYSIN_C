@@ -5,4 +5,5 @@ int main() {
     printf("float size: %d байт\n", sizeof(float));
     printf("double size: %d байт\n", sizeof(double));
     printf("char size: %d байт\n", sizeof(char));
+    return 0;
 }
