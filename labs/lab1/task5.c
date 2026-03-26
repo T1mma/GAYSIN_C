@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+    int a = 5;
+        printf("Исходное a = %d\n", a);
+        
+    printf("a++ = %d\n", a++);  
+    printf("После a++: a = %d\n", a);
+        
+    printf("++a = %d\n", ++a);
+    printf("После ++a: a = %d\n", a);
+        
+    printf("a-- = %d\n", a--);
+    printf("После a--: a = %d\n", a);
+        
+    printf("--a = %d\n", --a);  
+    printf("После --a: a = %d\n", a);
+    return 0;
+}

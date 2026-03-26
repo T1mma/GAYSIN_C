@@ -7,4 +7,5 @@ int main() {
     printf("a = %d\n", a);
     printf("b = %.2f\n", b);
     printf("c = %c\n", c);
+    return 0;
 };
